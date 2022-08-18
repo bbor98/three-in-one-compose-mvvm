@@ -1,0 +1,218 @@
+<resources>
+    <string name="app_name">Three In One Compose</string>
+
+    <string name="calculator">Calculator</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="timer">Timer</string>
+
+    <string name="calculator_error">Error</string>
+
+    <string name="unit_angle">Angle</string>
+    <string name="unit_area">Area</string>
+    <string name="unit_currency">Currency</string>
+    <string name="unit_data">Data</string>
+    <string name="unit_energy">Energy</string>
+    <string name="unit_force">Force</string>
+    <string name="unit_length">Length</string>
+    <string name="unit_power">Power</string>
+    <string name="unit_pressure">Pressure</string>
+    <string name="unit_speed">Speed</string>
+    <string name="unit_temperature">Temperature</string>
+    <string name="unit_time">Time</string>
+    <string name="unit_volume">Volume</string>
+    <string name="unit_weight">Weight</string>
+
+    <string name="equals_to">equals to</string>
+
+    <string name="angle_degree">Degree (°),1.0</string>
+    <string name="angle_radian">Radian (rad),57.295779513</string>
+    <string name="angle_grad">Grad (gon),0.9</string>
+    <string name="angle_arcsecond">Arcsecond (″),0.0002777778</string>
+    <string name="angle_arcminute">Arcminute (\'),0.0166666667</string>
+
+    <string name="area_acre">Acre (ac),4046.8564224</string>
+    <string name="area_are">Are (a),100.0</string>
+    <string name="area_decare">Decare (daa),1000.0</string>
+    <string name="area_hectare">Hectare (ha),10000.0</string>
+    <string name="area_square_foot">Square foot (ft²),0.09290304</string>
+    <string name="area_square_millimeter">Square millimeter (mm²),0.000001</string>
+    <string name="area_square_centimeter">Square centimeter (cm²),0.0001</string>
+    <string name="area_square_decimeter">Square decimeter (dm²),0.01</string>
+    <string name="area_square_meter">Square meter (m²),1.0</string>
+    <string name="area_square_hectometer">Square hectometer (hm²),10000.0</string>
+    <string name="area_square_kilometer">Square kilometer (km²),1000000.0</string>
+    <string name="area_square_mile">Square mile (mi²),2589988.1103</string>
+    <string name="area_square_yard">Square yard (yd²),0.83612736</string>
+    <string name="area_square_inch">Square inch (in²),0.00064516</string>
+
+    <string name="currency_argentine_peso">Argentine Peso (ARS)</string>
+    <string name="currency_australian_dollar">Australian Dollar (AUD)</string>
+    <string name="currency_azerbaijan_manat">Azerbaijan Manat (AZN)</string>
+    <string name="currency_bahraini_dinar">Bahraini Dinar (BHD)</string>
+    <string name="currency_brazilian_real">Brazilian Real (BRL)</string>
+    <string name="currency_british_pound">British Pound (GBP)</string>
+    <string name="currency_bulgarian_lev">Bulgarian Lev (BGN)</string>
+    <string name="currency_canadian_dollar">Canadian Dollar (CAD)</string>
+    <string name="currency_chinese_yuan_renminbi">Chinese Yuan Renminbi (CNY)</string>
+    <string name="currency_croatian_kuna">Croatian Kuna (HRK)</string>
+    <string name="currency_czech_koruna">Czech Koruna (CZK)</string>
+    <string name="currency_danish_krone">Danish Krone (DKK)</string>
+    <string name="currency_emirati_dirham">Emirati Dirham (AED)</string>
+    <string name="currency_euro">Euro (EUR)</string>
+    <string name="currency_hong_Kong_dollar">Hong Kong Dollar (HKD)</string>
+    <string name="currency_hungarian_forint">Hungarian Forint (HUF)</string>
+    <string name="currency_iceland_krona">Iceland Krona (ISK)</string>
+    <string name="currency_indian_rupee">Indian Rupee (INR)</string>
+    <string name="currency_indonesian_rupiah">Indonesian Rupiah (IDR)</string>
+    <string name="currency_israeli_new_shekel">Israeli New Shekel (ILS)</string>
+    <string name="currency_japanese_yen">Japanese Yen (JPY)</string>
+    <string name="currency_kuwaiti_dinar">Kuwaiti Dinar (KWD)</string>
+    <string name="currency_malaysian_ringgit">Malaysian Ringgit (MYR)</string>
+    <string name="currency_mexican_peso">Mexican Peso (MXN)</string>
+    <string name="currency_new_zealand_dollar">New Zealand Dollar (NZD)</string>
+    <string name="currency_norwegian_kroner">Norwegian Kroner (NOK)</string>
+    <string name="currency_philippine_peso">Philippine Peso (PHP)</string>
+    <string name="currency_polish_zloty">Polish Zloty (PLN)</string>
+    <string name="currency_qatari_rial">Qatari Rial (QAR)</string>
+    <string name="currency_romanian_new_lei">Romanian New Lei (RON)</string>
+    <string name="currency_russian_rouble">Russian Rouble (RUB)</string>
+    <string name="currency_singapore_dollar">Singapore Dollar (SGD)</string>
+    <string name="currency_south_african_rand">South African Rand (ZAR)</string>
+    <string name="currency_south_korean_won">South Korean Won (KRW)</string>
+    <string name="currency_swedish_krona">Swedish Krona (SEK)</string>
+    <string name="currency_swiss_franc">Swiss Franc (CHF)</string>
+    <string name="currency_thai_baht">Thai Baht (THB)</string>
+    <string name="currency_turkish_lira">Turkish Lira (TRY)</string>
+    <string name="currency_us_dollar">US Dollar (USD)</string>
+    <string name="currency_bitcoin">Bitcoin (BTC)</string>
+
+    <string name="data_bit">Bit (b),0.125</string>
+    <string name="data_megabit">Megabit (Mb),131072.0</string>
+    <string name="data_byte">Byte (B),1.0</string>
+    <string name="data_Kilobyte">Kilobyte (KB),1024.0</string>
+    <string name="data_megabyte">Megabyte (MB),1048576.0</string>
+    <string name="data_gigabyte">Gigabyte (GB),1073741824.0</string>
+    <string name="data_terabyte">Terabyte (TB),1099511627776.0</string>
+    <string name="data_petabyte">Petabyte (PB),1125899906842580.0</string>
+
+    <string name="energy_joule">Joule (J),1.0</string>
+    <string name="energy_kilojoule">Kilojoule (kJ),1000.0</string>
+    <string name="energy_calorie">Calorie (cal),4.184</string>
+    <string name="energy_kilocalorie">Kilocalorie (kcal),4184.0</string>
+
+    <string name="force_newton">Newton (N),1.0</string>
+    <string name="force_kilonewton">Kilonewton (kN),1000.0</string>
+    <string name="force_meganewton">Meganewton (MN),1000000.0</string>
+    <string name="force_pond">Pond (p),0.00980665</string>
+
+    <string name="length_nanometer">Nanometer (nm),0.000000001</string>
+    <string name="length_micrometer">Micrometer (μm),0.000001</string>
+    <string name="length_millimeter">Millimeter (mm),0.001</string>
+    <string name="length_centimeter">Centimeter (cm),0.01</string>
+    <string name="length_decimeter">Decimeter (dm),0.1</string>
+    <string name="length_meter">Meter (m),1.0</string>
+    <string name="length_kilometer">Kilometer (km),1000.0</string>
+    <string name="length_mile">Mile (mi),1609.344</string>
+    <string name="length_nautical_mile">Nautical mile (nmi),1852.0</string>
+    <string name="length_foot">Foot (ft),0.3048</string>
+    <string name="length_yard">Yard (yd),0.9144</string>
+    <string name="length_inch">Inch (in),0.0254</string>
+    <string name="length_light_year">Light year (ly),9460730472580044.0</string>
+
+    <string name="power_watt">Watt (W),1.0</string>
+    <string name="power_kilowatt">Kilowatt (kW),1000.0</string>
+    <string name="power_megawatt">Megawatt (MW),1000000.0</string>
+    <string name="power_gigawatt">Gigawatt (GW),1000000000.0</string>
+    <string name="power_terawatt">Terawatt (TW),1000000000000.0</string>
+    <string name="power_petawatt">Petawatt (PW),1000000000000000.0</string>
+    <string name="power_horsepower">Horsepower (hp),745.69987158</string>
+    <string name="power_ton_of_refrigeration">Ton of refrigeration (TR),3516.8528421</string>
+    <string name="power_british_thermal_unit">British thermal unit (BTU),0.293</string>
+
+    <string name="pressure_millibar">Millibar (mbar),100.0</string>
+    <string name="pressure_bar">Bar (bar),100000.0</string>
+    <string name="pressure_psi">Pound-force/Sq.inch (psi),6894.7572932</string>
+    <string name="pressure_ksi">Kilopound-force/Sq.inch (ksi),6894757.2932</string>
+    <string name="pressure_pascal">Pascal (Pa),1.0</string>
+    <string name="pressure_hectopascal">Hectopascal (hPa),100.0</string>
+    <string name="pressure_kilopascal">Kilopascal (kPa),1000.0</string>
+    <string name="pressure_megapascal">Megapascal (MPa),1000000.0</string>
+    <string name="pressure_gigapascal">Gigapascal (GPa),1000000000.0</string>
+
+    <string name="speed_meter_second">Meter/Second (m/s),3600.0</string>
+    <string name="speed_meter_minute">Meter/Minute (m/min),60.0</string>
+    <string name="speed_meter_hour">Meter/Hour (m/h),1.0</string>
+    <string name="speed_kilometer_second">Kilometer/Second (km/s),3600000.0</string>
+    <string name="speed_kilometer_minute">Kilometer/Minute (km/min),60000.0</string>
+    <string name="speed_kilometer_hour">Kilometer/Hour (km/h),1000.0</string>
+    <string name="speed_mile_second">Mile/Second (mi/s),5793638.4</string>
+    <string name="speed_mile_minute">Mile/Minute (mi/min),96560.64</string>
+    <string name="speed_mile_hour">Mile/Hour (mi/h),1609.344</string>
+    <string name="speed_foot_second">Foot/Second (ft/s),1097.28</string>
+    <string name="speed_foot_minute">Foot/Minute (ft/min),18.288</string>
+    <string name="speed_foot_hour">Foot/Hour (ft/h),0.3048</string>
+    <string name="speed_yard_second">Yard/Second (yd/s),3291.84</string>
+    <string name="speed_yard_minute">Yard/Minute (yd/min),54.864</string>
+    <string name="speed_yard_hour">Yard/Hour (yd/h),0.9144</string>
+    <string name="speed_knot">Knot (kn),1852.0</string>
+    <string name="speed_mach">Mach (Ma),1234800.0</string>
+    <string name="speed_speed_of_light">Speed of light (c),1079252848800.0</string>
+
+    <string name="temperature_celsius">Celsius (°C),0</string>
+    <string name="temperature_fahrenheit">Fahrenheit (°F),1</string>
+    <string name="temperature_kelvin">Kelvin (°K),2</string>
+    <string name="temperature_rankine">Rankine (°R),3</string>
+    <string name="temperature_reaumur">Réaumur (°Ré),4</string>
+
+    <string name="time_nanosecond">Nanosecond (ns),0.000000001</string>
+    <string name="time_microsecond">Microsecond (μs),0.000001</string>
+    <string name="time_millisecond">Millisecond (ms),0.001</string>
+    <string name="time_second">Second (sec),1.0</string>
+    <string name="time_minute">Minute (min),60.0</string>
+    <string name="time_hour">Hour (h),3600.0</string>
+    <string name="time_day">Day (d),86400.0</string>
+    <string name="time_week">Week (wk),604800.0</string>
+    <string name="time_month">Month (mo),2628000.0</string>
+    <string name="time_year">Year (yr),31536000.0</string>
+
+    <string name="volume_cubic_millimeter">Cubic millimeter (mm³),0.000000001</string>
+    <string name="volume_cubic_centimeter">Cubic centimeter (cm³),0.000001</string>
+    <string name="volume_cubic_decimeter">Cubic decimeter (dm³),0.001</string>
+    <string name="volume_cubic_meter">Cubic meter (m³),1.0</string>
+    <string name="volume_cubic_kilometer">Cubic kilometer (km³),1000000000.0</string>
+    <string name="volume_milliliter">Milliliter (mL),0.000001</string>
+    <string name="volume_centiliter">Centiliter (cL),0.00001</string>
+    <string name="volume_deciliter">Deciliter (dL),0.0001</string>
+    <string name="volume_liter">Liter (L),0.001</string>
+    <string name="volume_hectoliter">Hectoliter (hL),0.1</string>
+    <string name="volume_kiloliter">Kiloliter (kL),1.0</string>
+    <string name="volume_cup">Cup (c),0.0002365882</string>
+    <string name="volume_gallon">Gallon (gal),0.00378541178</string>
+
+    <string name="weight_microgram">Microgram (μg),0.000001</string>
+    <string name="weight_milligram">Milligram (mg),0.001</string>
+    <string name="weight_gram">Gram (g),1.0</string>
+    <string name="weight_hectogram">Hectogram (hg),100.0</string>
+    <string name="weight_kilogram">Kilogram (kg),1000.0</string>
+    <string name="weight_pound">Pound (lb),453.59237</string>
+    <string name="weight_ounce">Ounce (oz),28.3495231</string>
+    <string name="weight_carat">Carat (ct),0.2</string>
+    <string name="weight_grain">Grain (gr),0.06479891</string>
+    <string name="weight_metric_ton">Metric ton (t),1000000.0</string>
+    <string name="weight_long_ton">Long ton (lt),1016046.91</string>
+    <string name="weight_short_ton">Short ton (st),907184.74</string>
+
+    <string name="error_connection">Connection error</string>
+    <string name="error_not_found">Currency not found</string>
+    <string name="error_unknown">Unknown error</string>
+
+    <string name="stopwatch_lap_number">#</string>
+    <string name="stopwatch_lap_time">Lap time</string>
+    <string name="stopwatch_lap_interval">Lap interval</string>
+    <string name="stopwatch_day">day</string>
+
+    <string name="countdown_hours">Hours</string>
+    <string name="countdown_minutes">Minutes</string>
+    <string name="countdown_seconds">Seconds</string>
+    <string name="countdown_timer_not_set">Set the time first</string>
+</resources>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="units">
+    </string-array>
+
+    <array name="subunits_angle">
+        <item>@string/angle_degree</item>
+        <item>@string/angle_radian</item>
+        <item>@string/angle_grad</item>
+        <item>@string/angle_arcsecond</item>
+        <item>@string/angle_arcminute</item>
+    </array>
+
+    <array name="subunits_area">
+        <item>@string/area_acre</item>
+        <item>@string/area_are</item>
+        <item>@string/area_decare</item>
+        <item>@string/area_hectare</item>
+        <item>@string/area_square_foot</item>
+        <item>@string/area_square_millimeter</item>
+        <item>@string/area_square_centimeter</item>
+        <item>@string/area_square_decimeter</item>
+        <item>@string/area_square_meter</item>
+        <item>@string/area_square_hectometer</item>
+        <item>@string/area_square_kilometer</item>
+        <item>@string/area_square_mile</item>
+        <item>@string/area_square_yard</item>
+        <item>@string/area_square_inch</item>
+    </array>
+
+    <string-array name="subunits_currency">
+        <item>@string/currency_argentine_peso</item>
+        <item>@string/currency_australian_dollar</item>
+        <item>@string/currency_azerbaijan_manat</item>
+        <item>@string/currency_bahraini_dinar</item>
+        <item>@string/currency_brazilian_real</item>
+        <item>@string/currency_british_pound</item>
+        <item>@string/currency_bulgarian_lev</item>
+        <item>@string/currency_canadian_dollar</item>
+        <item>@string/currency_chinese_yuan_renminbi</item>
+        <item>@string/currency_croatian_kuna</item>
+        <item>@string/currency_czech_koruna</item>
+        <item>@string/currency_danish_krone</item>
+        <item>@string/currency_emirati_dirham</item>
+        <item>@string/currency_euro</item>
+        <item>@string/currency_hong_Kong_dollar</item>
+        <item>@string/currency_hungarian_forint</item>
+        <item>@string/currency_iceland_krona</item>
+        <item>@string/currency_indian_rupee</item>
+        <item>@string/currency_indonesian_rupiah</item>
+        <item>@string/currency_israeli_new_shekel</item>
+        <item>@string/currency_japanese_yen</item>
+        <item>@string/currency_kuwaiti_dinar</item>
+        <item>@string/currency_malaysian_ringgit</item>
+        <item>@string/currency_mexican_peso</item>
+        <item>@string/currency_new_zealand_dollar</item>
+        <item>@string/currency_norwegian_kroner</item>
+        <item>@string/currency_philippine_peso</item>
+        <item>@string/currency_polish_zloty</item>
+        <item>@string/currency_qatari_rial</item>
+        <item>@string/currency_romanian_new_lei</item>
+        <item>@string/currency_russian_rouble</item>
+        <item>@string/currency_singapore_dollar</item>
+        <item>@string/currency_south_african_rand</item>
+        <item>@string/currency_south_korean_won</item>
+        <item>@string/currency_swedish_krona</item>
+        <item>@string/currency_swiss_franc</item>
+        <item>@string/currency_thai_baht</item>
+        <item>@string/currency_turkish_lira</item>
+        <item>@string/currency_us_dollar</item>
+        <item>@string/currency_bitcoin</item>
+    </string-array>
+
+    <string-array name="subunits_data">
+        <item>@string/data_bit</item>
+        <item>@string/data_megabit</item>
+        <item>@string/data_byte</item>
+        <item>@string/data_Kilobyte</item>
+        <item>@string/data_megabyte</item>
+        <item>@string/data_gigabyte</item>
+        <item>@string/data_terabyte</item>
+        <item>@string/data_petabyte</item>
+    </string-array>
+
+    <string-array name="subunits_energy">
+        <item>@string/energy_joule</item>
+        <item>@string/energy_kilojoule</item>
+        <item>@string/energy_calorie</item>
+        <item>@string/energy_kilocalorie</item>
+    </string-array>
+
+    <string-array name="subunits_force">
+        <item>@string/force_newton</item>
+        <item>@string/force_kilonewton</item>
+        <item>@string/force_meganewton</item>
+        <item>@string/force_pond</item>
+    </string-array>
+
+    <string-array name="subunits_length">
+        <item>@string/length_nanometer</item>
+        <item>@string/length_micrometer</item>
+        <item>@string/length_millimeter</item>
+        <item>@string/length_centimeter</item>
+        <item>@string/length_decimeter</item>
+        <item>@string/length_meter</item>
+        <item>@string/length_kilometer</item>
+        <item>@string/length_mile</item>
+        <item>@string/length_nautical_mile</item>
+        <item>@string/length_foot</item>
+        <item>@string/length_yard</item>
+        <item>@string/length_inch</item>
+        <item>@string/length_light_year</item>
+    </string-array>
+
+    <string-array name="subunits_power">
+        <item>@string/power_watt</item>
+        <item>@string/power_kilowatt</item>
+        <item>@string/power_megawatt</item>
+        <item>@string/power_gigawatt</item>
+        <item>@string/power_terawatt</item>
+        <item>@string/power_petawatt</item>
+        <item>@string/power_horsepower</item>
+        <item>@string/power_ton_of_refrigeration</item>
+        <item>@string/power_british_thermal_unit</item>
+    </string-array>
+
+    <string-array name="subunits_pressure">
+        <item>@string/pressure_millibar</item>
+        <item>@string/pressure_bar</item>
+        <item>@string/pressure_psi</item>
+        <item>@string/pressure_ksi</item>
+        <item>@string/pressure_pascal</item>
+        <item>@string/pressure_hectopascal</item>
+        <item>@string/pressure_kilopascal</item>
+        <item>@string/pressure_megapascal</item>
+        <item>@string/pressure_gigapascal</item>
+    </string-array>
+
+    <string-array name="subunits_speed">
+        <item>@string/speed_meter_second</item>
+        <item>@string/speed_meter_minute</item>
+        <item>@string/speed_meter_hour</item>
+        <item>@string/speed_kilometer_second</item>
+        <item>@string/speed_kilometer_minute</item>
+        <item>@string/speed_kilometer_hour</item>
+        <item>@string/speed_mile_second</item>
+        <item>@string/speed_mile_minute</item>
+        <item>@string/speed_mile_hour</item>
+        <item>@string/speed_foot_second</item>
+        <item>@string/speed_foot_minute</item>
+        <item>@string/speed_foot_hour</item>
+        <item>@string/speed_yard_second</item>
+        <item>@string/speed_yard_minute</item>
+        <item>@string/speed_yard_hour</item>
+        <item>@string/speed_knot</item>
+        <item>@string/speed_mach</item>
+        <item>@string/speed_speed_of_light</item>
+    </string-array>
+
+    <string-array name="subunits_temperature">
+        <item>@string/temperature_celsius</item>
+        <item>@string/temperature_fahrenheit</item>
+        <item>@string/temperature_kelvin</item>
+        <item>@string/temperature_rankine</item>
+        <item>@string/temperature_reaumur</item>
+    </string-array>
+
+    <string-array name="subunits_time">
+        <item>@string/time_nanosecond</item>
+        <item>@string/time_microsecond</item>
+        <item>@string/time_millisecond</item>
+        <item>@string/time_second</item>
+        <item>@string/time_minute</item>
+        <item>@string/time_hour</item>
+        <item>@string/time_day</item>
+        <item>@string/time_week</item>
+        <item>@string/time_month</item>
+        <item>@string/time_year</item>
+    </string-array>
+
+    <string-array name="subunits_volume">
+        <item>@string/volume_cubic_millimeter</item>
+        <item>@string/volume_cubic_centimeter</item>
+        <item>@string/volume_cubic_decimeter</item>
+        <item>@string/volume_cubic_meter</item>
+        <item>@string/volume_cubic_kilometer</item>
+        <item>@string/volume_milliliter</item>
+        <item>@string/volume_centiliter</item>
+        <item>@string/volume_deciliter</item>
+        <item>@string/volume_liter</item>
+        <item>@string/volume_hectoliter</item>
+        <item>@string/volume_kiloliter</item>
+        <item>@string/volume_cup</item>
+        <item>@string/volume_gallon</item>
+    </string-array>
+
+    <string-array name="subunits_weight">
+        <item>@string/weight_microgram</item>
+        <item>@string/weight_milligram</item>
+        <item>@string/weight_gram</item>
+        <item>@string/weight_hectogram</item>
+        <item>@string/weight_kilogram</item>
+        <item>@string/weight_pound</item>
+        <item>@string/weight_ounce</item>
+        <item>@string/weight_carat</item>
+        <item>@string/weight_grain</item>
+        <item>@string/weight_metric_ton</item>
+        <item>@string/weight_long_ton</item>
+        <item>@string/weight_short_ton</item>
+    </string-array>
+</resources>
